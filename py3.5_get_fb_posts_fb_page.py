@@ -5,9 +5,9 @@ import csv
 import time
 import codecs
 
-app_id = "<FILL IN>"
-app_secret = "<FILL IN>" # DO NOT SHARE WITH ANYONE!
-page_id = "cnn"
+app_id = "243334629445358"
+app_secret = "bd97331e3f5c44c60e9a22fe59f17afd" # DO NOT SHARE WITH ANYONE!
+page_id = "MercedesBenz"
 
 access_token = app_id + "|" + app_secret
 
